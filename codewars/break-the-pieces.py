@@ -3,10 +3,18 @@ USE_BREAK_DISPLAY = True
 def break_evil_pieces(shape):
     pass
 
-# (1)right turn     (1.1)random access       (1.2)pieces from
-#    maniac              grid                     lines
-# (1.3)pieces
-#      inside others
+# right turn     random       p-i-e-ce-s
+# m-a-n-i-ac     access       from lines
+#                gr-i-d
 #
-# (2)one pass    (2.1)connect left    (2.2)connect
-#    parser           or up                conditions
+# pieces            cut out with
+# inside            left    turn
+# others
+#
+# one pass    con--nec-t    con--nec-t
+# par-se-r    left or up    conditions
+#
+# unconfirmed
+# p-i-e-c-e-s
+#
+#
